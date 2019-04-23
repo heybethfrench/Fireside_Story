@@ -1,4 +1,7 @@
 body {
     color: white;
-    background: black;
+    background: #333;
+    font-size: 150%;
+    font-family: 'Satify', cursive;
+    margin: 5em 25%;
 }
